@@ -1,0 +1,15 @@
+{
+  "Version": "18.0.0",
+  "ReleaseDateUtc": "2026-07-20T00:00:00Z",
+  "ChangeLog": "- DLC metinleri eklendi\n- Yazım hataları düzeltildi",
+  "DownloadUrl": "https://github.com/Sungur358/SnowRunner-TR-Yama/blob/main/strings_english.str",
+  "MirrorUrls": [
+    "https://github.com/Sungur358/SnowRunner-TR-Yama/blob/main/strings_english.str",
+    "https://github.com/Sungur358/SnowRunner-TR-Yama/blob/main/strings_english.str"
+  ],
+  "Sha256": "buraya-indirilecek-dosyanin-gercek-sha256-ozetini-yazin",
+  "IsEncrypted": false,
+  "Announcement": "Yeni sürüm 18.0.0 yayınlandı!",
+  "TargetEntryPath": "[strings]/strings_english.str",
+  "SupportedLanguages": [ "tr", "en", "ru", "de", "fr", "es", "it", "pl", "pt-br", "zh", "ja", "ko" ]
+}
